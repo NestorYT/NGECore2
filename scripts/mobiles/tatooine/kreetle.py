@@ -6,7 +6,7 @@ def addTemplate(core):
 	mobileTemplate = MobileTemplate()
 	templates = Vector()
 	templates.add('object/mobile/shared_kreetle.iff')
-	mobileTemplare.setCustomName('a kreetle')
+	mobileTemplate.setCustomName('a kreetle')
 	mobileTemplate.setTemplates(templates)
 	mobileTemplate.setLevel(5)
 	attacks = Vector()
